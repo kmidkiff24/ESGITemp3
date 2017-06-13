@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{AB6F7952-4742-4D60-9704-EDD303735864}">
+	<children>
+		<child name="ESGI Temp3" key="{A6AF27BD-5637-427B-8F5F-238F9594CB1F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="..\ESGI\ESGI\ESGI Temp3.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{2544EE0C-CAEF-4FF2-A1C5-549344032744}">
+		<children>
+			<testItem key="{A6AF27BD-5637-427B-8F5F-238F9594CB1F}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{BD7992BA-3F86-4D52-8E93-8E630B3F6C61}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{E0030D65-52BE-4442-B9D0-C90807F583C9}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>
